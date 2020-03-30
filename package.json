@@ -1,0 +1,26 @@
+{
+  "name": "express-router-sample",
+  "version": "1.0.0",
+  "description": "A sample of a express app with basic routing",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BredeBorhaug/express-router-sample.git"
+  },
+  "author": "brede@borhaug.io",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BredeBorhaug/express-router-sample/issues"
+  },
+  "homepage": "https://github.com/BredeBorhaug/express-router-sample#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
